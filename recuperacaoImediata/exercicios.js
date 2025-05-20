@@ -105,7 +105,7 @@ for (let i = 0; i < frutas.length; i++) {
 }
 
 //ex12
-let nomes = ["Ana", "Bruno", "Carlos", "Daniela"];
+let nomes = ["PZ", "Botaccio", "Olivaz", "Miguel"];
 
 for (let nome of nomes) {
   console.log(nome);
@@ -113,9 +113,9 @@ for (let nome of nomes) {
 
 //ex13
 let pessoa = {
-  nome: "Lucas",
-  idade: 25,
-  cidade: "São Paulo"
+  nome: "Gusta",
+  idade: 17,
+  cidade: "Sorocaba"
 };
 
 for (let chave in pessoa) {
